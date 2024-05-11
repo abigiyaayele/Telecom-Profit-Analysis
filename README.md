@@ -8,7 +8,7 @@ Telecom Profit Analysis
 
 Overview
 
-This project focuses on conducting a comprehensive analysis of TellCo, an existing mobile service provider, to determine opportunities for growth and profitability. The analysis involves exploring a telecom dataset to extract insights into user behavior, engagement, experience, and satisfaction. The project aims to provide valuable recommendations to the investor regarding whether TellCo is worth buying or selling.
+This project focuses on conducting a comprehensive analysis of Telecom, an existing mobile service provider, to determine opportunities for growth and profitability. The analysis involves exploring a telecom dataset to extract insights into user behavior, engagement, experience, and satisfaction. The project aims to provide valuable recommendations to the investor regarding whether TellCo is worth buying or selling.
 
 Project Structure
 
